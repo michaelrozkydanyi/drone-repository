@@ -1,7 +1,7 @@
 {
-        "auths": {
-                "registry.local.lab": {
-                        "auth": "dXNlcjp1c2Vy"
-                }
-        }
+	"auths": {
+		"https://registry.local.lab": {
+			"auth": "dmFncmFudDp2YWdyYW50"
+		}
+	}
 }
